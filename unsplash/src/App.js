@@ -14,8 +14,6 @@ class App extends Component {
             <Navbar />
             <Route path="/" exact component={Photos} />
           </div>
-
-          {/* <Photos /> */}
           <Route path="/search" component={Search} />
           <Route path="/photos" component={Photos} />
         </div>
