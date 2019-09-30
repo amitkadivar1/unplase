@@ -9,7 +9,7 @@ import "react-pagination-library/build/css/index.css";
 const options = [
   { value: "5", label: "5 Images Show" },
   { value: "10", label: "10 Images Show" },
-  { value: "15", label: "15 Images Show" },
+  { value: "15", label: "15 Images Shoaw" },
   { value: "20", label: "20 Images Show" },
   { value: "25", label: "25 Images Show" },
   { value: "30", label: "30 Images Show" }
